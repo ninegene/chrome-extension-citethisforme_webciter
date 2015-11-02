@@ -29,6 +29,6 @@
    "name": "Cite This For Me: Web Citer",
    "permissions": [ "https://www.citethisforme.com/", "tabs", "storage", "*://*/*" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "2.6.1",
+   "version": "2.6.1.1",
    "web_accessible_resources": [ "images/*", "popup.htm", "styles/*", "js/*", "css/*" ]
 }
